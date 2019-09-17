@@ -10,3 +10,6 @@ dependencies:
 - name: tekton-go-091702
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: tekton-go-091703
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
