@@ -13,6 +13,9 @@ dependencies:
 - name: tekton-go-091703
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: tekton-go-091903
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: tekton-spring-091704
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
